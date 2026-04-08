@@ -1,0 +1,15 @@
+
+========================================
+AI Toolbox - Example Output
+========================================
+
+【Example 1: Summarizer】
+Input: Artificial intelligence is a branch of computer science dedicated to creating systems capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding. In recent years, the development of deep learning has greatly advanced AI, enabling breakthroughs in image recognition and natural language processing.
+
+
+【Example 2: Email Polisher】
+Input: hi john, can you send me the report? thanks
+
+【Example 3: Todo Classifier】
+Input: buy groceries, write weekly report, exercise, learn Python, see doctor
+
